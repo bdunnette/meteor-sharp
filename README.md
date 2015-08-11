@@ -1,6 +1,6 @@
 # meteor-sharp
 
-Adds bindings to the libvips image processing library
+Lovell Fuller's [sharp](http://github.com/lovell/sharp) bindings to the libvips image processing library, packaged for Meteor.
 
 For full documentation, visit [sharp.dimens.io](http://sharp.dimens.io/).
 
