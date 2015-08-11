@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "sharp": {
+      "version": "0.11.0",
+      "dependencies": {
+        "bluebird": {
+          "version": "2.9.34"
+        },
+        "color": {
+          "version": "0.10.1",
+          "dependencies": {
+            "color-convert": {
+              "version": "0.5.3"
+            },
+            "color-string": {
+              "version": "0.3.0",
+              "dependencies": {
+                "color-name": {
+                  "version": "1.0.0"
+                }
+              }
+            }
+          }
+        },
+        "nan": {
+          "version": "1.9.0"
+        },
+        "semver": {
+          "version": "5.0.1"
+        }
+      }
+    }
+  }
+}
